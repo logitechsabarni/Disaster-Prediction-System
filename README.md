@@ -140,4 +140,4 @@ The disaster management system is:- https://vscode-6245d5e4-9640-4236-9a67-4f953
 
 The app protype is:- https://rapid-relief-2.preview.emergentagent.com/
 
-Another one:- https://safeguard-sos-7.preview.emergentagent.com/dashboard
+Another one:- https://safeguard-sos-7.preview.emergentagent.com/dashboard and the vs code link is:- https://vscode-68130c5d-a8b7-46e7-adfb-9effee321ce9.preview.emergentagent.com/
