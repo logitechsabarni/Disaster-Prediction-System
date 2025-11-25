@@ -136,3 +136,6 @@ Split the system into parts:
 * Add weather forecast APIs (e.g., OpenWeatherMap)
 * Predict evacuation needs using population density maps
 
+The disaster management system is:- https://vscode-6245d5e4-9640-4236-9a67-4f953aa98512.preview.emergentagent.com/
+
+The app protype is:- https://rapid-relief-2.preview.emergentagent.com/
